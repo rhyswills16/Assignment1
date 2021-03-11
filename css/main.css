@@ -1,0 +1,30 @@
+p {
+    font-family: 'arial', sans-serif;
+}
+
+button {
+    height: 3.5rem;
+    width: 10rem;
+    align-content: center;
+    margin-bottom: 1em;
+}
+
+ul.expand {
+    display: flex;
+    list-style: none;
+    margin-bottom: 5em;
+    align-content: center;
+}
+    ul.expand li {
+        align-content: center;
+        padding-right: 500px;
+    }
+        ul.submit {
+            display: flex;
+            cursor: grab;
+            list-style: none;
+            margin-top: 2.5em;
+            margin-bottom: 5em;
+            align-content: center;
+            padding-left: 560px;
+        }
